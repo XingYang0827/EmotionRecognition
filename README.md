@@ -35,3 +35,6 @@ The model is integrated with a local server's camera feed to enable real-time fa
 - PyTorch
 - OpenCV
 - NumPy
+
+## Credits
+This project was developed by Yang Xing as part of under the supervision of Summer Program Utech.
